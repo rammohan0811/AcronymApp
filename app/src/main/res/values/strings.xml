@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AcronymApp</string>
+    <string name="find_meaning_for_acronym"><u>Find Meaning for Acronym</u></string>
+    <string name="enter_the_acronym">Enter the acronym</string>
+    <string name="search">SEARCH</string>
+    <string name="no_data_found">No Data Found!!</string>
+    <string name="search_error">Enter the Acronym</string>
+</resources>
